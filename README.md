@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#Introduction
+# Introduction
+##I am currently working on learning about programming to apply it throughout the course of grad school. So far, I have played around mainly with R studio, while also getting to use Deeptools Jupyter and some python on GoogleCollab. This profile page will include links to my repository that has useful links and templates as well as some reminders of different codes to use in R. 
