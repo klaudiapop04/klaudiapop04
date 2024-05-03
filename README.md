@@ -24,3 +24,10 @@ Here are some ideas to get you started:
 
 ## Link to repository "my-resources/examples" to get to my examples folder and its contents.
 [Examples](https://github.com/klaudiapop04/my-resources/tree/e275b845ae6c6304dfb556ac79938e9a185dced2/Examples)
+
+
+# Link to an Interesting/Useful Module
+## Here is a link to the module I feel will be most beneficial and most used in my research
+
+[Getting_Data](https://github.com/klaudiapop04/CM515-course-2024/tree/04f732416ada07f64965931c0b2c02d24a7efbdf/modules/06_Getting_Data)
+[Visualizing_Data](https://github.com/klaudiapop04/CM515-course-2024/tree/04f732416ada07f64965931c0b2c02d24a7efbdf/modules/05_Visualization)
