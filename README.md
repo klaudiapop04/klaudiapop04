@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 
 [Getting_Data](https://github.com/klaudiapop04/CM515-course-2024/tree/04f732416ada07f64965931c0b2c02d24a7efbdf/modules/06_Getting_Data)
 [Visualizing_Data](https://github.com/klaudiapop04/CM515-course-2024/tree/04f732416ada07f64965931c0b2c02d24a7efbdf/modules/05_Visualization)
+
+# Link to previous homework assignments
+[Homework](https://github.com/klaudiapop04/CM515-course-2024/tree/d032f4ab9597d5e4c02d4c05d1741c07d506c9ab/Completed%20HW%20Assignments)
