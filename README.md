@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 
 # Introduction
 ##I am currently working on learning about programming to apply it throughout the course of grad school. So far, I have played around mainly with R studio, while also getting to use Deeptools Jupyter and some python on GoogleCollab. This profile page will include links to my repository that has useful links and templates as well as some reminders of different codes to use in R. 
+
+
+
+# Useful Links
+
+## Link to repository "my-resources/examples" to get to my examples folder and its contents.
+[Examples](https://github.com/klaudiapop04/my-resources/tree/e275b845ae6c6304dfb556ac79938e9a185dced2/Examples)
